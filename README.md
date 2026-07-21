@@ -2,7 +2,7 @@
 Project code used to generate the results for my thesis, titled: "Near-Earth Asteroid Orbit Determination &amp; Yarkovsky Effect Detection"
 
 Overview of project files:
-- `Thesis_Final_2026-07-19.pdf` - The final thesis document, in PDF format.
+- `Thesis_Final_2026-07-19.pdf` - The final thesis document, in PDF format. This document is also available in the [TU Delft repository](https://resolver.tudelft.nl/uuid:56640d62-64f6-4041-bf46-9ffe02394a1b)
 
 - `acceleration_scenario_comparison.py` - Compares different dynamical acceleration scenarios for a target asteroid, such as different combinations of solar-system perturbations and Yarkovsky effects. It propagates orbits, compares them against JPL Horizons, and generates plots showing position error and residual behavior.
 
